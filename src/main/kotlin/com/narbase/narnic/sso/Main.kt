@@ -5,14 +5,8 @@ import java.io.File
 import java.util.*
 
 /*
- * NARBASE TECHNOLOGIES CONFIDENTIAL
- * ______________________________
- * [2017] -[2019] Narbase Technologies
- * All Rights Reserved.
- * Created by islam
- * On: 2024/04/28.
+ * Copyright 2017-2024 Narbase technologies and contributors. Use of this source code is governed by the MIT License.
  */
-
 fun main() {
     setSystemProperties()
     RiayatiSsoTester.runTest()
